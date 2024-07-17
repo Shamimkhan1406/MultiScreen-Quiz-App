@@ -1,12 +1,12 @@
-# udemy_2
+# Multiscreen Quiz App
+## Technologies used: Flutter, Dart
 
-A new Flutter project.
+Developed a comprehensive quiz application with multiple screens.
 
-## Getting Started
+Implemented navigation between the start page, quiz questions, and results page.
 
-This project is a starting point for a Flutter application.
+Displayed user results, including correct and incorrect answers with color-coded indicators.
 
-A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
